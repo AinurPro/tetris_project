@@ -4,3 +4,4 @@ As lines are cleared, the level increases and Tetriminos fall faster, making the
 
 ![alt text](https://static4.depositphotos.com/1000252/373/i/450/depositphotos_3736954-stock-photo-tetris-game.jpg?forcejpeg=true "Image of tetris game")
 # wireframe <src https://docs.google.com/presentation/d/1ijeoRMLFRBWTlDyZ_L0a0X2ebhG2KEX-TDVHfzH3x0s/edit#slide=id.p>
+add more details
